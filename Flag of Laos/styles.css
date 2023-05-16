@@ -1,0 +1,34 @@
+.container{
+    background-color: #CE1126;
+    height: 600px;
+    width: 900px;
+    position: relative;
+}
+.blueStrip{
+    height: 300px;
+    width: 900px;
+    background-color: #002868;
+    position: absolute;
+    top: 150px;
+}
+.whiteCircle{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    left: 350px;  
+}
+.text{
+    margin: 0;
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 80px;
+    margin: 0;
+}
